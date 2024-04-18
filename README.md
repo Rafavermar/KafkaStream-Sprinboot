@@ -1,7 +1,7 @@
 # Kafka Microservices Project
 
 This repository contains a simple Kafka-based microservices project using Spring Boot. It demonstrates a basic setup with a Kafka Producer, Kafka Streams for processing, and a Kafka Consumer.
-
+![Project_architecture.png](Assets%2FProject_architecture.png)
 ## Components
 
 - **Kafka Producer**: A Spring Boot application that sends messages to a Kafka topic.
